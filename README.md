@@ -1,6 +1,8 @@
 # 👋😁 Agung Sundoro
 
-Hi there, I'm Agung Sundoro - aka [agung2001][website], a passionate full stack web developer and software engineer from Indonesia. 
+![Cover](img/cover.jpg)
+Hi there, I'm Agung Sundoro aka [agung2001][website], a passionate full stack web developer and software engineer from Indonesia 🇮🇩.
+I am an open-source enthusiast and maintainer. I love to collaborate and share with a member of open source community. 🥳
 
 ![Twitter](https://img.shields.io/twitter/follow/agung2001?style=social) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCI1uulkvet06Mm3wfpQvpLg?style=social)
@@ -10,9 +12,10 @@ Hi there, I'm Agung Sundoro - aka [agung2001][website], a passionate full stack 
 
 - 📍 Lives in Jakarta, Indonesia.
 - 📫 How to reach me: [Github Page][website].
-- 🎶 Fun fact: I love to draw, play guitar and piano.
+- 🤩 Fun fact: I love to read, play guitar and piano.
+- 🧩️ WordPress [Plugins](https://profiles.wordpress.org/agung2001/#content-plugins) and [Themes](https://profiles.wordpress.org/agung2001/#content-themes) contributor.
 
-### Languages and Tools
+### Things I code with
 
 |          | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
