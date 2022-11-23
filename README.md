@@ -2,7 +2,7 @@
 
 ![Cover](img/cover.jpg)
 Hi there, I'm Agung Sundoro aka [agung2001][website], a passionate full stack web developer and software engineer from Indonesia 🇮🇩.
-I am an open-source enthusiast and maintainer. I love to collaborate and share with a member of open source community. 🥳
+I am an open-source enthusiast and maintainer. I love to collaborate and share with a member of open source community. 🌟🥳
 
 ![Twitter](https://img.shields.io/twitter/follow/agung2001?style=social) 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCI1uulkvet06Mm3wfpQvpLg?style=social)
@@ -12,8 +12,20 @@ I am an open-source enthusiast and maintainer. I love to collaborate and share w
 
 - 📍 Lives in Jakarta, Indonesia.
 - 📫 How to reach me: [Github Page][website].
-- 🤩 Fun fact: I love to read, play guitar and piano.
+- 🤩 Fun fact: I love to [read][goodreads], play guitar and piano.
 - 🧩️ WordPress [Plugins](https://profiles.wordpress.org/agung2001/#content-plugins) and [Themes](https://profiles.wordpress.org/agung2001/#content-themes) contributor.
+
+<details>
+    <summary>🎶 Top Spotify Artist I Love 🎸🥁🎹</summary>
+
+- 🤘 [AC/DC](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
+- 🤘 [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep)
+- 🤘 [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
+- 🤘 [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf)
+- 🤘 [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv)
+- [More](https://open.spotify.com/user/21yip2zhtynpaalfr53tonr5a)
+</details>
+  
 
 ### Things I code with
 
@@ -28,7 +40,9 @@ I am an open-source enthusiast and maintainer. I love to collaborate and share w
 
 ## Github Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agung2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agung2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> <br />
+<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agung2001&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
 [website]: https://agung2001.github.io
 [wordpress]: https://profiles.wordpress.org/agung2001
+[goodreads]: https://goodreads.com/agungsundoro
