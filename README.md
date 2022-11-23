@@ -39,7 +39,7 @@ I am an open-source enthusiast and maintainer. I love to collaborate and share w
 
 ## Github Stats
 
-<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agung2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> <br />
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agung2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agung2001&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
 [website]: https://agung2001.github.io
