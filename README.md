@@ -1,12 +1,11 @@
 ![Cover](img/cover.jpg)
-👋😁 Hi there, I'm Agung Sundoro aka [agung2001][website], a passionate full stack web developer and software engineer from Indonesia 🇮🇩.
-I am an open-source enthusiast and maintainer, also love to collaborate with others 🥳🌟
 
 ## Things about me
 
-- 📍 Lives in Jakarta, Indonesia.
-- 📫 How to reach me: [Github Page][website].
-- 🧩️ WordPress [Plugins](https://profiles.wordpress.org/agung2001/#content-plugins) and [Themes](https://profiles.wordpress.org/agung2001/#content-themes) contributor.
+- 📍 Lives in Jakarta, Indonesia 🇮🇩.
+- 📫 How to reach me: [GitHub Page][website].
+- 👨‍🚀 I am an open-source enthusiast and maintainer. 
+- 🧩️ I am a [WordPress](https://profiles.wordpress.org/agung2001/) contributor.
 
 - <details>
     <summary>🎶 Top Spotify Artist I Love 🎸🥁🎹</summary>
