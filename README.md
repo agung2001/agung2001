@@ -1,4 +1,4 @@
-![Cover](img/cover.jpg)
+![Cover](https://cdn.jsdelivr.net/gh/agung2001/agung2001@main/img/cover.jpg)
 
 ## Things about me
 
