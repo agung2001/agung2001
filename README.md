@@ -3,7 +3,7 @@
 ## Things about me
 
 - 📍 Lives in Jakarta, Indonesia 🇮🇩.
-- 📫 How to reach me: [GitHub Page][website].
+- 📫 How to reach me: [GitHub Page](https://agungsundoro.ddns.net).
 - 👨‍🚀 I am an open-source enthusiast and maintainer. 
 - 🧩️ I am a [WordPress](https://profiles.wordpress.org/agung2001/) contributor.
 
@@ -27,10 +27,6 @@
   - 📙 [The 4-Hour Work Week](https://www.goodreads.com/book/show/9278897-the-4-hour-work-week)
   - 📙 [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
   - 📙 [The Total Money Makeover](https://www.goodreads.com/book/show/78427.The_Total_Money_Makeover)
-  - [More][goodreads]
+  - [More](https://goodreads.com/agungsundoro)
   </details>
-- 👨‍💻 [More about me][website]
-
-[website]: https://agung2001.github.io
-[wordpress]: https://profiles.wordpress.org/agung2001
-[goodreads]: https://goodreads.com/agungsundoro
+- 👨‍💻 [More about me](https://agungsundoro.ddns.net)
