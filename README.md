@@ -10,6 +10,8 @@
 - <details>
     <summary>🎶 Top Spotify Artist I Love 🎸🥁🎹</summary>
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaG5hdDlxcnp3Mzd0cmFlOGk1MGI3Mzdvcm50a29tNXoxaGdxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RAGxhwdfH6Je8/giphy.gif)
+
   - 🤘 [AC/DC](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
   - 🤘 [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep)
   - 🤘 [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
