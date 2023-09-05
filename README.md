@@ -9,9 +9,8 @@
 
 - <details>
     <summary>🎶 Top Spotify Artist I Love 🎸🥁🎹</summary>
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZwaG5hdDlxcnp3Mzd0cmFlOGk1MGI3Mzdvcm50a29tNXoxaGdxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RAGxhwdfH6Je8/giphy.gif)
-
+  
+    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd5Y2ozM3pwdGNxd2V4MTV5dnBxM2dvdWpsMjVubDJxbjhianoyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GIcsQJorDZOU/giphy.gif)
   - 🤘 [AC/DC](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
   - 🤘 [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep)
   - 🤘 [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
@@ -22,6 +21,7 @@
 - <details>
     <summary>📚 List of books that changed my life 🔥🌟</summary>
 
+    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFzeHdlZzQ2ZnBtNXBxZ29hZTRvdHRwMTR6Y2tzYmRzcjVqcTY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMK7LRBedcnhm/giphy.gif)
   - 📙 [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
   - 📙 [Good to Great](https://www.goodreads.com/book/show/76865.Good_to_Great)
   - 📙 [Superconnector](https://www.goodreads.com/book/show/35397470-superconnector)
