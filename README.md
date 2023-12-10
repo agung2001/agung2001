@@ -3,7 +3,7 @@
 ## Things about me
 
 - 📍 Lives in Jakarta, Indonesia 🇮🇩.
-- 📫 How to reach me: [GitHub Page](https://agungsundoro.ddns.net).
+- 📫 How to reach me: [GitHub Page](https://agungsundoro.com).
 - 👨‍🚀 I am an open-source enthusiast and maintainer. 
 - 🧩️ I am a [WordPress](https://profiles.wordpress.org/agung2001/) contributor.
 
@@ -31,4 +31,4 @@
   - 📙 [The Total Money Makeover](https://www.goodreads.com/book/show/78427.The_Total_Money_Makeover)
   - [More](https://goodreads.com/agungsundoro)
   </details>
-- 👨‍💻 [More about me](https://agungsundoro.ddns.net)
+- 👨‍💻 [More about me](https://agungsundoro.com)
