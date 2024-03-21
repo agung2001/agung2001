@@ -4,9 +4,31 @@
 
 - 📍 Lives in Jakarta, Indonesia 🇮🇩.
 - 📫 How to reach me [My Website][website].
-- 👨‍🚀 I am an open-source enthusiast and maintainer. 
-- 🧩️ I am a [WordPress](https://profiles.wordpress.org/agung2001/) contributor.
+- <details>
+    <summary>👨‍🚀 I am an open-source enthusiast and maintainer.</summary>
 
+  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3cjJoaHl5aXBqcm9wdGNzaGs2dnZjdm9nemRqc3JqbTZuanZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpURqIvpuDguQ/giphy.gif)
+    
+    - [Open Pull Request](https://github.com/search?q=is%3Apr+author%3Aagung2001&type=pullrequests)
+    - More of my [contributions][website]
+  </details>
+- <details>
+    <summary>❤️ I support open-source community</summary>
+
+  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpiM3J1bmZqcHg3OGt2cGp0NWF3ZXhiN3pmNm9tejRnN2pvZGljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GJRIgTY4sS6k/giphy.gif)
+
+    <a href="https://opencollective.com/agung-sundoro">
+      <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/svelte?logo=svelte&label=Svelte">
+      <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/opensid?label=OpenSID">
+    </a>
+  </details>
+- <details>
+    <summary>🧩️ I am a WordPress contributor.</summary>
+
+  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJyMGE2YzlxeGp1NW54c3VlYzcwbmZrZ3U2bTFsaGhvZGdtOWtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqtvGYCjDNwac/giphy.gif)
+
+   - Check my [profile](https://profiles.wordpress.org/agung2001/)
+  </details>
 - <details>
     <summary>🎶 Top Spotify Artist I Love 🎸🥁🎹</summary>
   
@@ -34,3 +56,4 @@
 - 👨‍💻 [More about me][website]
 
 [website]: https://agungsundoro.com
+
