@@ -9,7 +9,9 @@
 
   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3cjJoaHl5aXBqcm9wdGNzaGs2dnZjdm9nemRqc3JqbTZuanZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpURqIvpuDguQ/giphy.gif)
     
-    - [Open Pull Request](https://github.com/search?q=is%3Apr+author%3Aagung2001&type=pullrequests)
+    - [Issues](https://github.com/search?q=author%3Aagung2001&type=issues)
+    - [Discussions](https://github.com/search?q=author%3Aagung2001&type=discussions)
+    - [Pull Request](https://github.com/search?q=author%3Aagung2001&type=pullrequests)
     - More of my [contributions][website]
   </details>
 - <details>
