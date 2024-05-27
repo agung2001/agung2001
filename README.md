@@ -28,11 +28,11 @@
 
   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpiM3J1bmZqcHg3OGt2cGp0NWF3ZXhiN3pmNm9tejRnN2pvZGljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GJRIgTY4sS6k/giphy.gif)
 
-    <a href="https://opencollective.com/agung-sundoro">
-      <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/svelte?logo=svelte&label=Svelte">
-      <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/opensid?label=OpenSID">
-    </a>
-    More of my [sponsorship][website]
+    - <a href="https://opencollective.com/agung-sundoro">
+        <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/svelte?logo=svelte&label=Svelte">
+        <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/opensid?label=OpenSID">
+      </a>
+    - More of my [sponsorship][website]
   </details>
 - <details>
     <summary>🧩️ I am a WordPress contributor.</summary>
