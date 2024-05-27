@@ -5,6 +5,15 @@
 - 📍 Lives in Jakarta, Indonesia 🇮🇩.
 - 📫 How to reach me [My Website][website].
 - <details>
+    <summary>▶️ Subscribe to me on <a href="https://www.youtube.com/channel/UCI1uulkvet06Mm3wfpQvpLg">YouTube</a></summary>
+
+    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZnZmZrdzM5bnExczcwc21yNDQwZjhsNG5kcTNwaG82Yno1N2E2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qC5abwZ54KV6U/giphy.gif)
+
+    <a href="https://www.youtube.com/channel/UCI1uulkvet06Mm3wfpQvpLg">
+      <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCI1uulkvet06Mm3wfpQvpLg"/>
+    </a>
+  </details>
+- <details>
     <summary>👨‍🚀 I am an open-source enthusiast and maintainer.</summary>
 
   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3cjJoaHl5aXBqcm9wdGNzaGs2dnZjdm9nemRqc3JqbTZuanZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpURqIvpuDguQ/giphy.gif)
@@ -23,6 +32,7 @@
       <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/svelte?logo=svelte&label=Svelte">
       <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/opensid?label=OpenSID">
     </a>
+    More of my [sponsorship][website]
   </details>
 - <details>
     <summary>🧩️ I am a WordPress contributor.</summary>
