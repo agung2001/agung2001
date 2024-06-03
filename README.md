@@ -7,7 +7,7 @@
 - <details>
     <summary>▶️ Subscribe to me on <a href="https://www.youtube.com/channel/UCI1uulkvet06Mm3wfpQvpLg">YouTube</a></summary>
 
-    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZnZmZrdzM5bnExczcwc21yNDQwZjhsNG5kcTNwaG82Yno1N2E2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qC5abwZ54KV6U/giphy.gif)
+    ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkyNDlubGY5ejIwaXRlNGw0a29wMGxpaG1jZnNqZDU0Z3NuOHZ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0G17dShlWfgJnp7i/giphy.gif)
 
     <a href="https://www.youtube.com/channel/UCI1uulkvet06Mm3wfpQvpLg">
       <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCI1uulkvet06Mm3wfpQvpLg"/>
