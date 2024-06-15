@@ -49,6 +49,7 @@
   - 🤘 [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep)
   - 🤘 [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
   - 🤘 [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf)
+  - 🤘 [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77)
   - 🤘 [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv)
   - [More](https://open.spotify.com/user/21yip2zhtynpaalfr53tonr5a)
   </details>
