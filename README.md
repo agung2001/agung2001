@@ -21,7 +21,7 @@
     - [Issues](https://github.com/search?q=author%3Aagung2001&type=issues)
     - [Discussions](https://github.com/search?q=author%3Aagung2001&type=discussions)
     - [Pull Request](https://github.com/search?q=author%3Aagung2001&type=pullrequests)
-    - More of my [contributions][website]
+    - More of my [contributions](https://agungsundoro.com/contribution)
   </details>
 - <details>
     <summary>❤️ I support open-source community</summary>
